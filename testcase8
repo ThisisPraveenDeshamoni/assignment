@@ -1,0 +1,5 @@
+Test name: creating order for 80 orders 
+Test Description: after entering the number of orderst that is 80 for beach T-shirts it calls to beachshirts.neworder. then for accept it calls to: beachshirts.setMessage(string) and accepts the request of beach T-shrits.  After the completion of order its gives output of order complete by calling setmessage2 function. After that they should tell us the cost required and it happens by using communication cost function. Then atlast threads company should acknowledge that payment is done by calling set message function and payment done function.
+Desired outcome: outcome will be according to the requirements given by the question that first the outcome is about number of orders then accept of that order from threads.  After this outcome will be completion of order then cost required. Atlast outcome will be acknowledge about payment done
+Actual outcome: On testing, I validated that the actual outcome matches the requirements.
+Result: Pass
