@@ -27,7 +27,7 @@ function neworder(int num) public pure returns(int) {
     }
      
     function setMessage3(string memory _msg) public {
-        message = _msg;
+        message3 = _msg;
     }
     function paymentdone() public view returns(string memory)  {
         return message3;
