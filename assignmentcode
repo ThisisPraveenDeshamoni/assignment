@@ -2,7 +2,7 @@ pragma solidity ^0.5.17;
 contract beachshirts {
      string message;
      string message2;
-     string message3
+     string message3;
 
 function neworder(int num) public pure returns(int) {
         return num;
